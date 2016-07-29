@@ -1,5 +1,7 @@
 # Project-1
 /Coursera
+
+
 getwd()
 setwd("C:/Users/Shalu/Desktop/coursera_R")
 df <- read.table("HW1_data.csv", header = T, sep = ',')
